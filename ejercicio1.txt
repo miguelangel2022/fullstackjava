@@ -244,10 +244,7 @@ https://github.com/miguelangel2022/fullstackjava.git
 
 
 
-
-
-14.- Git status y confirmaci—n GitHub cambios
-
+14.- Git status y confirmaci—n GitHub cambios archivo contenidos
 
 
 
@@ -270,4 +267,30 @@ https://github.com/miguelangel2022/fullstackjava.git
 
 
 
- 
+15.- Estado de cambios en archivo ejercicio1, add, coomit, push y confirmaci—n en GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
